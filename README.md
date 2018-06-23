@@ -28,8 +28,8 @@ Implementation of Deep Mind's Paper titled: "Human Level Control through Deep Re
 |Breakout|45|
 |Cart Pole|200|
 
-- Breakout: ![average rewards vs episodes] (https://github.com/kabirahuja2431/DeepQLearning/images/dqn.JPG)
-- Cartpole: ![average rewards vs episodes] (https://github.com/kabirahuja2431/DeepQLearning/images/pg.JPG)
+- Breakout: ![alt text] (https://github.com/kabirahuja2431/DeepQLearning/images/dqn.JPG "Breakout") 
+- Cartpole: ![alt text] (https://github.com/kabirahuja2431/DeepQLearning/images/pg.JPG "CartPole)
 
 ## Experiments
 - Breakout: ![average rewards vs episodes] (https://github.com/kabirahuja2431/DeepQLearning/images/breakout.gif)
