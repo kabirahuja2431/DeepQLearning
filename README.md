@@ -28,7 +28,7 @@ Implementation of Deep Mind's Paper titled: "Human Level Control through Deep Re
 |Breakout|45|
 |Cart Pole|200|
 
-![alt text] (https://github.com/kabirahuja2431/DeepQLearning/images/dqn.JPG "Breakout") 
+![alt text](https://github.com/kabirahuja2431/DeepQLearning/images/dqn.JPG raw=true "Breakout") 
 - Cartpole: ![alt text] (https://github.com/kabirahuja2431/DeepQLearning/images/pg.JPG "CartPole)
 
 ## Experiments
