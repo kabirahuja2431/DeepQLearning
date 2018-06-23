@@ -32,7 +32,7 @@ Implementation of Deep Mind's Paper titled: "Human Level Control through Deep Re
 ![alt text](https://github.com/kabirahuja2431/DeepQLearning/blob/master/images/dqn.JPG "Breakout")
 
 ### Cartpole
-![alt text](https://github.com/kabirahuja2431/DeepQLearning/blob/master/images/pg.JPG "CartPole)
+![alt text](https://github.com/kabirahuja2431/DeepQLearning/blob/master/images/pg.JPG "CartPole")
 
 ## Experiments
 
@@ -40,6 +40,6 @@ Implementation of Deep Mind's Paper titled: "Human Level Control through Deep Re
 ![alt text](https://github.com/kabirahuja2431/DeepQLearning/blob/master/images/breakout.gif "Breakout")
 
 ### Cartpole
-![alt text](https://github.com/kabirahuja2431/DeepQLearning/blob/master/images/cartpole.gif "CartPole)
+![alt text](https://github.com/kabirahuja2431/DeepQLearning/blob/master/images/cartpole.gif "CartPole")
 
 
